@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089939650944",
+    "project_id": "alibabacollection-4a962",
+    "storage_bucket": "alibabacollection-4a962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089939650944:android:20ee94ee602ddf3bb8e965",
+        "android_client_info": {
+          "package_name": "com.example.alibabacollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089939650944-035mncl8kma5qho10ju7s259rbkd1h2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOwlrAVCPJIb2Zn5ZQBhtNUJn3MpgFRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089939650944-035mncl8kma5qho10ju7s259rbkd1h2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
